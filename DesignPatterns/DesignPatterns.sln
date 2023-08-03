@@ -3,9 +3,44 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{02971FC5-7F66-4454-B84C-A1A18DDFF4F9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "creational", "creational", "{749E465F-1759-4E86-A1A2-FA3AA665E9CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "structural", "structural", "{77EBA36A-D9A6-4518-BC40-453983423E17}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "behavioral", "behavioral", "{F7E1D1ED-03E6-44A5-80A2-900005AD2DBE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BuilderDesignPattern", "BuilderDesignPattern", "{15A5FB7F-D1C7-45FB-80FD-0490445E0B83}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SingletonDesingPattern", "SingletonDesingPattern", "{BA1201B2-827A-4F79-9629-B29F15C50F6C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FactoryDesignPattern", "FactoryDesignPattern", "{55301DE6-DE5E-4F9E-BEEF-AB8FCE8BB0A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderDesignPattern.ConsoleApp", "src\creational\BuilderDesignPattern\BuilderDesignPattern.ConsoleApp\BuilderDesignPattern.ConsoleApp.csproj", "{4C30DBF4-3E7B-4EA4-8D34-8A9B9BE3C136}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C30DBF4-3E7B-4EA4-8D34-8A9B9BE3C136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C30DBF4-3E7B-4EA4-8D34-8A9B9BE3C136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C30DBF4-3E7B-4EA4-8D34-8A9B9BE3C136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C30DBF4-3E7B-4EA4-8D34-8A9B9BE3C136}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{749E465F-1759-4E86-A1A2-FA3AA665E9CC} = {02971FC5-7F66-4454-B84C-A1A18DDFF4F9}
+		{77EBA36A-D9A6-4518-BC40-453983423E17} = {02971FC5-7F66-4454-B84C-A1A18DDFF4F9}
+		{F7E1D1ED-03E6-44A5-80A2-900005AD2DBE} = {02971FC5-7F66-4454-B84C-A1A18DDFF4F9}
+		{15A5FB7F-D1C7-45FB-80FD-0490445E0B83} = {749E465F-1759-4E86-A1A2-FA3AA665E9CC}
+		{BA1201B2-827A-4F79-9629-B29F15C50F6C} = {749E465F-1759-4E86-A1A2-FA3AA665E9CC}
+		{55301DE6-DE5E-4F9E-BEEF-AB8FCE8BB0A0} = {749E465F-1759-4E86-A1A2-FA3AA665E9CC}
+		{4C30DBF4-3E7B-4EA4-8D34-8A9B9BE3C136} = {15A5FB7F-D1C7-45FB-80FD-0490445E0B83}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4D97B8E7-EB6F-4D7D-A0EF-817424721E14}

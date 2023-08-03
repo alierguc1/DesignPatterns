@@ -1,0 +1,15 @@
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\BuilderDesignPattern\BuilderDesignPattern.ConsoleApp\bin\Debug\net7.0\BuilderDesignPattern.ConsoleApp.exe
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\BuilderDesignPattern\BuilderDesignPattern.ConsoleApp\bin\Debug\net7.0\BuilderDesignPattern.ConsoleApp.deps.json
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\BuilderDesignPattern\BuilderDesignPattern.ConsoleApp\bin\Debug\net7.0\BuilderDesignPattern.ConsoleApp.runtimeconfig.json
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\BuilderDesignPattern\BuilderDesignPattern.ConsoleApp\bin\Debug\net7.0\BuilderDesignPattern.ConsoleApp.dll
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\BuilderDesignPattern\BuilderDesignPattern.ConsoleApp\bin\Debug\net7.0\BuilderDesignPattern.ConsoleApp.pdb
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\BuilderDesignPattern\BuilderDesignPattern.ConsoleApp\obj\Debug\net7.0\BuilderDesignPattern.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\BuilderDesignPattern\BuilderDesignPattern.ConsoleApp\obj\Debug\net7.0\BuilderDesignPattern.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\BuilderDesignPattern\BuilderDesignPattern.ConsoleApp\obj\Debug\net7.0\BuilderDesignPattern.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\BuilderDesignPattern\BuilderDesignPattern.ConsoleApp\obj\Debug\net7.0\BuilderDesignPattern.ConsoleApp.AssemblyInfo.cs
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\BuilderDesignPattern\BuilderDesignPattern.ConsoleApp\obj\Debug\net7.0\BuilderDesignPattern.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\BuilderDesignPattern\BuilderDesignPattern.ConsoleApp\obj\Debug\net7.0\BuilderDesignPattern.ConsoleApp.dll
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\BuilderDesignPattern\BuilderDesignPattern.ConsoleApp\obj\Debug\net7.0\refint\BuilderDesignPattern.ConsoleApp.dll
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\BuilderDesignPattern\BuilderDesignPattern.ConsoleApp\obj\Debug\net7.0\BuilderDesignPattern.ConsoleApp.pdb
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\BuilderDesignPattern\BuilderDesignPattern.ConsoleApp\obj\Debug\net7.0\BuilderDesignPattern.ConsoleApp.genruntimeconfig.cache
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\BuilderDesignPattern\BuilderDesignPattern.ConsoleApp\obj\Debug\net7.0\ref\BuilderDesignPattern.ConsoleApp.dll
