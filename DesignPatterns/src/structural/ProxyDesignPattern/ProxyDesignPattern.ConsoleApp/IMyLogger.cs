@@ -10,6 +10,6 @@ namespace ProxyDesignPattern.ConsoleApp
     {
         void Log(string message);
 
-        void Log(IEnumerable<string> message)
+        void Log(IEnumerable<string> message);
     }
 }
