@@ -1,0 +1,15 @@
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\SingletonDesingPattern\SingletonDesingPattern.ConsoleApp\bin\Debug\net7.0\SingletonDesingPattern.ConsoleApp.exe
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\SingletonDesingPattern\SingletonDesingPattern.ConsoleApp\bin\Debug\net7.0\SingletonDesingPattern.ConsoleApp.deps.json
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\SingletonDesingPattern\SingletonDesingPattern.ConsoleApp\bin\Debug\net7.0\SingletonDesingPattern.ConsoleApp.runtimeconfig.json
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\SingletonDesingPattern\SingletonDesingPattern.ConsoleApp\bin\Debug\net7.0\SingletonDesingPattern.ConsoleApp.dll
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\SingletonDesingPattern\SingletonDesingPattern.ConsoleApp\bin\Debug\net7.0\SingletonDesingPattern.ConsoleApp.pdb
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\SingletonDesingPattern\SingletonDesingPattern.ConsoleApp\obj\Debug\net7.0\SingletonDesingPattern.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\SingletonDesingPattern\SingletonDesingPattern.ConsoleApp\obj\Debug\net7.0\SingletonDesingPattern.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\SingletonDesingPattern\SingletonDesingPattern.ConsoleApp\obj\Debug\net7.0\SingletonDesingPattern.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\SingletonDesingPattern\SingletonDesingPattern.ConsoleApp\obj\Debug\net7.0\SingletonDesingPattern.ConsoleApp.AssemblyInfo.cs
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\SingletonDesingPattern\SingletonDesingPattern.ConsoleApp\obj\Debug\net7.0\SingletonDesingPattern.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\SingletonDesingPattern\SingletonDesingPattern.ConsoleApp\obj\Debug\net7.0\SingletonDesingPattern.ConsoleApp.dll
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\SingletonDesingPattern\SingletonDesingPattern.ConsoleApp\obj\Debug\net7.0\refint\SingletonDesingPattern.ConsoleApp.dll
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\SingletonDesingPattern\SingletonDesingPattern.ConsoleApp\obj\Debug\net7.0\SingletonDesingPattern.ConsoleApp.pdb
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\SingletonDesingPattern\SingletonDesingPattern.ConsoleApp\obj\Debug\net7.0\SingletonDesingPattern.ConsoleApp.genruntimeconfig.cache
+C:\Users\Cihan\Desktop\DesignPatterns\DesignPatterns\src\creational\SingletonDesingPattern\SingletonDesingPattern.ConsoleApp\obj\Debug\net7.0\ref\SingletonDesingPattern.ConsoleApp.dll
